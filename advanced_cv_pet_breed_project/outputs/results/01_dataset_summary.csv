@@ -1,0 +1,2 @@
+num_train_examples,num_test_examples,total_examples,num_breed_classes,num_species_classes,min_image_height,max_image_height,mean_image_height,min_image_width,max_image_width,mean_image_width,unique_channel_counts
+3680,3669,7349,37,2,103,2606,391.3872635732753,114,3264,437.23744727173766,[3]
