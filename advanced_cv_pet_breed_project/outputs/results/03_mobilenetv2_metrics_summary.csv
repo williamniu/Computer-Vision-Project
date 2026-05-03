@@ -1,0 +1,2 @@
+model_name,model_type,image_size,num_classes,epochs_run,best_validation_accuracy,best_validation_loss,test_accuracy,test_loss
+mobilenetv2_transfer_classifier,"MobileNetV2 transfer learning, frozen base",224x224,37,10,0.9021739363670349,0.3113863468170166,0.890705943107605,0.34124118089675903
