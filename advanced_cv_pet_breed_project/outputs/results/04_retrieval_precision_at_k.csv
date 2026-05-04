@@ -1,0 +1,4 @@
+k,num_queries,mean_precision_at_k,same_breed_hit_rate_at_k
+1,500,0.882,0.882
+3,500,0.8793333333333333,0.964
+5,500,0.8612000000000001,0.982
